@@ -6,7 +6,7 @@
 <br>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Java, and Spring Boot Technology
+- 🔭 I’m currently working on Java, Spring Boot, JavaScript, React Technologies
 - 🌱 I’m currently learning Angular, TypeScript
 
 - 👨‍💻 I'm interested in Competitive Programming
