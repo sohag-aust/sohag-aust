@@ -6,8 +6,8 @@
 <br>
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on Java, Spring Boot, JavaScript, React Technologies
-- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently working on Java, Spring Boot, DevOps Technologies
+- 🌱 I would like to learn JavaScript, React, and Redux technologies in my free time
 
 - 👨‍💻 I'm interested in Competitive Programming
 
