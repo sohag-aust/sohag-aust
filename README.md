@@ -24,7 +24,7 @@
     <a href="https://www.nginx.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nginx.png"/> </a>
     <a href="https://www.jenkins.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/jenkins.png"/> </a>
     <a href="https://www.ansible.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/ansible.png"/> </a>
-    <a href="https://junit.org/junit5/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:80/format:webp/0*-iG0UknaZHuCNr4_.jpg"/> </a>
+    <a href="https://junit.org/junit5/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:60/format:webp/0*-iG0UknaZHuCNr4_.jpg"/> </a>
     <br><br>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
