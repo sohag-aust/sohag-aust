@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on Java, Spring Boot, DevOps Technologies
-- 🌱 I would like to learn JavaScript, React, and Redux technologies in my free time
+- 🌱 I would like to learn Kubernetes, Computer Networking in my free time
 
 - 👨‍💻 I'm interested in Competitive Programming
 
