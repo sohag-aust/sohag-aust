@@ -7,7 +7,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on Java, Spring Boot, DevOps Technologies
-- 🌱 I would like to learn System design, AWS, Kubernetes, Computer Networking in my free time
+- 🌱 I would like to learn System Design, AWS, Kubernetes, Computer Networking in my free time
 
 - 👨‍💻 I'm interested in Competitive Programming
 
